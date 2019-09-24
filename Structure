@@ -1,66 +1,66 @@
 ** PRE ** 
-Steal the 494th
+PRE-01 - Steal the 494th
 
 ** BAS **
-Basic Game Configuration
-Basic Aircraft Procedures
+BAS-01 - Basic Game Configuration
+BAS-02 - Basic Aircraft Procedures
 	Checklist start & Taxi
-Basic flight, takeoff and landings
+BAS-03 - Basic flight, takeoff and landings
 	Departure from the circuit, straight-in recovery
-A2A Refuelling
+BAS-04 - A2A Refuelling
 	Departure from the circuit, SOP refuel, recover
-Precision Flight
+BAS-05 - Precision Flight
 	Basic formations, formation departures & recoveries
 
 ** AVI **
-Systems Configuration & Management
+AVI-01 - Systems Configuration & Management
 	Plan and use a route of WPs
 	Manage Radios, inc. TACAN
 	Fuel planning
-Radar
+AVI-02 - Radar
 	Manage the Radar & associated modes
-Link-16 and IFF
+AVI-03 - Link-16 and IFF
 
 
 ** COM ** 
-In-flight Communications
+COM-01 - In-flight Communications
 	FL-supervised flight with WM operating radio
-Combat Communications
+COM-02 - Combat Communications
 	AWACS check-in, picture and BRAA calls
 
 ** NAV **
-	Basic navigation using waypoints & dead-reckoning navigation
-	IFR navigation
-	Night operations
+NAV-01 - Basic navigation using waypoints & dead-reckoning navigation
+NAV-02 - IFR navigation
+NAV-03 - Night operations
 
 ** WPN **
-Guns and Rockets
-AIM-120C AMRAAMAMAMMAAMAA
-AIM-7 Sparrow
-AIM-9 & JHMCS
-CCIP Bombing
-CCRP Bombing
+WPN-01 - Guns and Rockets
+WPN-02 - AIM-120C AMRAAMAMAMMAAMAA
+WPN-03 - AIM-7 Sparrow
+WPN-04 - AIM-9 & JHMCS
+WPN-05- CCIP Bombing
+WPN-06 - CCRP Bombing
 
 (To follow)
-AGM-65
-AGM-88C HARM
-LGB - Singleton and buddy-lasing
-JDAM
-JSOW
-IAM CBU
-Towed decoy
-LITENING
+WPN-07 - AGM-65
+WPN-08 - AGM-88C HARM
+WPN-09 - LGB - Singleton and buddy-lasing
+WPN-10 - JDAM
+WPN-11 - JSOW
+WPN-12 - IAM CBU
+WPN-13 - Towed decoy
+WPN-14 - LITENING
 
 
 ** TAC **
-Tactical Formations & Turns
+TAC-01 - Tactical Formations & Turns
    Mirror 494th
-High and Medium altitude deliveries 
-Low altitude deliveries
-Surface Attack Basics
+TAC-02 - High and Medium altitude deliveries 
+TAC-03 - Low altitude deliveries
+TAC-04 - Surface Attack Basics
    494th SAT-1
-BVR and Mutual Support 
+TAC-05 - BVR and Mutual Support 
    Would be nice to copy 494th but issues with TWS 
-WVR Engagement Basics
-Defensive systems and manoeuvres
+TAC-06 - WVR Engagement Basics
+TAC-07 - Defensive systems and manoeuvres
 
