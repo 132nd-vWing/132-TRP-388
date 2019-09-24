@@ -32,7 +32,7 @@ COM-02 - Combat Communications
 ** NAV **
 NAV-01 - Basic navigation using waypoints & dead-reckoning navigation
 NAV-02 - IFR navigation
-NAV-03 - Night operations
+NAV-03 - Night navigation
 
 ** WPN **
 WPN-01 - Guns and Rockets
@@ -44,7 +44,7 @@ WPN-06 - CCRP Bombing
 
 (To follow)
 WPN-07 - AGM-65
-WPN-08 - AGM-88C HARM
+WPN-08 - AGM-88C HARM & AN/ASQ-213 HTS
 WPN-09 - LGB - Singleton and buddy-lasing
 WPN-10 - JDAM
 WPN-11 - JSOW
@@ -64,5 +64,14 @@ TAC-05 - Surface Attack Basics
    494th SAT-1
 TAC-06 - WVR Engagement Basics
 TAC-07 - Defensive systems and manoeuvres
-TAC-08 - MQT Checkout
-
+TAC-08 - Night Operations
+TAC-09 - MQT Checkout
+TAC-10 - AR/AI Flights
+TAC-11 - OCA: Sweep
+TAC-12 - OCA: ESCORT
+TAC-13 - DCA: CAP
+TAC-14 - CAS Operations
+TAC-15 - SEAD/DEAD Operations
+TAC-16 - Two-Ship Flight Lead
+TAC-17 - Four-Ship Flight Lead
+TAC-18 - FAC(A)
