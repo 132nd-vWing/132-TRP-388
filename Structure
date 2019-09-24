@@ -24,7 +24,7 @@ AVI-03 - Link-16 and IFF
 
 
 ** COM ** 
-COM-01 - In-flight Communications
+(I) COM-01 - In-flight Communications
 	FL-supervised flight with WM operating radio
 COM-02 - Combat Communications
 	AWACS check-in, picture and BRAA calls
@@ -54,24 +54,24 @@ WPN-14 - LITENING
 
 
 ** TAC **
-TAC-01 - Tactical Formations & Turns
+(I) TAC-01 - Tactical Formations & Turns
    Mirror 494th
-TAC-02 - BVR and Mutual Support 
+(I) TAC-02 - BVR and Mutual Support 
    Would be nice to copy 494th but issues with TWS 
 TAC-03 - High and Medium altitude deliveries 
 TAC-04 - Low altitude deliveries
-TAC-05 - Surface Attack Basics
+(R) TAC-05 - Surface Attack Basics
    494th SAT-1
-TAC-06 - WVR Engagement Basics
+(I) TAC-06 - WVR Engagement Basics
 TAC-07 - Defensive systems and manoeuvres
 TAC-08 - Night Operations
-TAC-09 - MQT Checkout
+(I) (C) TAC-09 - MQT Checkout
 TAC-10 - AR/AI Flights
 TAC-11 - OCA: Sweep
 TAC-12 - OCA: ESCORT
 TAC-13 - DCA: CAP
 TAC-14 - CAS Operations
 TAC-15 - SEAD/DEAD Operations
-TAC-16 - Two-Ship Flight Lead
-TAC-17 - Four-Ship Flight Lead
-TAC-18 - FAC(A)
+(I) TAC-16 - Two-Ship Flight Lead
+(I) TAC-17 - Four-Ship Flight Lead
+(I) TAC-18 - FAC(A)
