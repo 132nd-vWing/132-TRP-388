@@ -19,14 +19,14 @@ WPN-01 - Guns and Rockets
 WPN-02 - AIM-120C AMRAAMAMAMMAAMAA
 WPN-03 - AIM-7 Sparrow
 WPN-04 - AIM-9 & JHMCS
-TAC-05 - BVR & Mutual Support
+TAC-05 - BVR & Mutual Support  (ACT 2)
 WPN-05- CCIP Bombing
 WPN-06 - CCRP Bombing
-TAC-02 - High and Medium altitude deliveries 
-TAC-03 - Low altitude deliveries
-TAC-04 - Surface Attack Basics
+TAC-02 - High and Medium altitude deliveries  (SAT 1)
+TAC-03 - Low altitude deliveries (SAT 2)
+TAC-04 - Surface Attack Basics (SAT 3)
 * AVI-03 - Link-16 and IFF
-TAC-06 - WVR Engagemenet Basics
+TAC-06 - WVR Engagemenet Basics  (ACT 1)
 TAC-07 - Defensive Systems and Manouevres
 TAC-08 - Night Operations
 TAC-09 - MQT Checkout
@@ -58,3 +58,59 @@ TAC-15 - SEAD/DEAD Operations
 TAC-16 - Two-Ship Flight Lead
 TAC-17 - Four-Ship Flight Lead
 TAC-18 - FAC(A)
+
+
+NECK SUGGESTION:
+
+## CT seperated into 4 parts:##
+- WPN (Self qualify for all weapons and systems)
+- ACT (Air Combat Tactics)
+- SAT (Surface Attack Tactics)
+- SEAD 
+
+
+**ACT**
+ACT 3: DCA CAP
+ACT 4: OCA SWEEP
+ACT 5: OCA ESCORT
+ACT 6: DCA Intercept (QRA)
+
+
+**SAT**
+SAT 4 (SAT 3, but as FL)
+SAT 5: Armed Reconnaissance
+SAT 6: Close Air Support
+SAT 7: SCAR
+
+
+
+
+**SEAD**
+SEAD : Wild weasel 1 (need to be developed)
+SEAD: Wild Weaserl 2 (need to be developed)
+
+
+## UPGRADES (UG): ##
+**FLUG 2ship (Flight lead upgrade)**
+SAT 8: Opposed SAT (A-A + A-G)
+
+
+**FLUG 4ship (Flight lead upgrade)**
+SAT 10: Opposed SAT 4ship
+ACT 7: DCA CAP 4 ship
+
+
+**Aggressor**
+
+
+**FAC(A)**
+
+
+**IP**
+
+
+**Mission Commander**
+SAT 9  Package (3 flight package: Strike, sweep , SEAD)
+ACT 8: DCA CAP (Minum 3 flights covering 2 FAOR)
+
+
