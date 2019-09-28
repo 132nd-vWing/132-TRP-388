@@ -1,4 +1,4 @@
-** IQT **
+## IQT ##
 PRE-01 - Welcome to the 388th
 BAS-01 - Basic Game Congiruration
 BAS-02 - Basic Aircraft Procedures
@@ -9,7 +9,9 @@ AVI-01 - Systems Configuration & Management
 NAV-01 - Basic Navigation
 COM-01 - In-Flight Communicatiosn (The 132nd Way of Flying)
 
-** MQT **
+
+
+## MQT ##
 TAC-01 - Tactical Formations & Turns
 NAV-02 - IFR Navigation
 COM-02 - Combat Communications
@@ -31,14 +33,18 @@ TAC-07 - Defensive Systems and Manouevres
 TAC-08 - Night Operations
 TAC-09 - MQT Checkout
 
-** CTT **
+
+
+## CTT ##
 BAS-05 - Precision Flight
 AVI-01 - Systems Configuration & Management
 AVI-02 - Radar
 AVI-03 - Link-16 and IFF
 TAC-08 - MQT Checkout
 
-** CT **
+
+
+## CT ##
 WPN-07 - AGM-65
 WPN-08 - AGM-88C HARM
 WPN-09 - LGB - Singleton and buddy-lasing
@@ -54,7 +60,9 @@ TAC-13 - DCA: CAP
 TAC-14 - CAS Operations
 TAC-15 - SEAD/DEAD Operations
 
-** UGT **
+
+
+## UGT ##
 TAC-16 - Two-Ship Flight Lead
 TAC-17 - Four-Ship Flight Lead
 TAC-18 - FAC(A)
