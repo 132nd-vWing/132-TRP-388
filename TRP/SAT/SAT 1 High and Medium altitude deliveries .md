@@ -9,7 +9,7 @@ High and Medium altitude deliveries
 Self Qualification
 
 ## Topics
-Preparation of students to undertake the F-16 Fight Falcon training course
+Tactics and profiles for high/medium level A-G weapon deliveries.
 
 ## Objectives
 * Objective 1: Familiarization with cockpit cues/references for high/medium altitude weapon release.
@@ -20,6 +20,7 @@ Preparation of students to undertake the F-16 Fight Falcon training course
 * Objective 6: Utilizing Safe Escape Maneuver.
 * Objective 7: Able to give and receive 3-point attack brief.
 * Objective 8: Know the difference between shooter-shooter and shooter-cover and when they can be used.
+* Objective 9: Know how to set up a wheel .
 
 ## Trainee Preparation
 - Study 132nd SAT document (Surface Attack Tactics) version 0.3:
@@ -36,5 +37,7 @@ This mission is conducted as a 2-ship flight.
 
 Once all objctives are met, you must self-qualify this lesson.
 
-
+Focus here is a permissive environment, with a simulated Manpad threat.
 As a minimum conduct 1x high/medium altitude shooter-cover attack and 1x high/medium altitude shooter-shooter attack using the 40 HADB profile found in the SAT document.
+
+This lesson can be combined with SAT-2
