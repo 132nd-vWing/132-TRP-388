@@ -26,7 +26,7 @@ WPN-05- CCIP Bombing
 WPN-06 - CCRP Bombing
 TAC-02 - High and Medium altitude deliveries  (SAT 1)
 TAC-03 - Low altitude deliveries (SAT 2)
-TAC-04 - Surface Attack Basics (SAT 3)
+-- TAC-04 - Surface Attack Basics (SAT 3)   (NECK: SUGGEST DELETE)
 * AVI-03 - Link-16 and IFF
 TAC-06 - WVR Engagemenet Basics  (ACT 1)
 TAC-07 - Defensive Systems and Manouevres
@@ -90,10 +90,10 @@ ACT 6: DCA Intercept (QRA)
 
 
 **SAT**
-SAT 4 (SAT 3, but as FL)
-SAT 5: Armed Reconnaissance
-SAT 6: Close Air Support
-SAT 7: SCAR
+SAT 3 (SAT 1 or 2, but as FL)
+SAT 4: Armed Reconnaissance
+SAT 5: Close Air Support
+SAT 6: SCAR
 
 
 **SEAD**
