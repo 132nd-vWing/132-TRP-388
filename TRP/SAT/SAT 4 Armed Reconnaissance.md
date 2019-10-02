@@ -9,16 +9,16 @@ Armed Reconnaissance
 Self Qualification
 
 ## Topics
-Build a solid understanding of Armed Reconnissance (AR) and Strike Coordination And Reconnissance (SCAR). Theory preperation give a understanding of counterland missions.
+Build a solid understanding of Armed Reconnissance (AR) 
 
 ## Objectives
-Objective 1: Understand the difference between AR and SCAR
+Objective 1: Understand the difference between AR and SCAR.
 Objective 2: Understand how SCAR and AR are connected.
-Objective 3: Know how to use the 132nd In-flight Report template
-Objective 4: Understand how to recive a retasking
-Objective 5: Understand how to recive a SCAR briefing
-Objective 6: Are able to prepare and plan a AR mission.
-Objective 7: Are able to use the battle handover brief.
+Objective 3: Know how to use the 132nd In-flight Report template.
+Objective 4: Understand how to recive a retasking.
+Objective 5: Understand how to recive a SCAR briefing from a SCAR flight.
+Objective 6: Are able to prepare, plan and execute a AR mission.
+Objective 7: Know how to use the battle handover brief.
 
 ## Trainee Preparation
 - Read 132-DP-1 Air Warfare Doctrine
@@ -39,6 +39,6 @@ MQ pilots will plan, prepare and brief a AR mission, using one of the search met
 During the mission, one pilot or one element will head for the tanker, and the flight will use the battle handover brief to provide SA when they switch roles. After mission is complete and during RTB, pilots will give a inflightreport to AWACS or to eachother if no AWACS controller is availeble.
 
 
-Range 1 and Range 2A aregood for the excution of this mission. (Use F10 to dynamicly setup the range. In order to activate the range, Find Range 1 or Range 2 storage, move the vehicle close to the windmarker and the Range options are availeble in the F10 menu).
+Range 1 and Range 2A are good for the excution of this mission. (Use F10 to dynamicly setup the range. In order to activate the range, Find Range 1 or Range 2 storage, move the vehicle close to the windmarker and the Range options are availeble in the F10 menu).
 
 If availeble, coordinate with another pilot/controller to setup the range, in order to increase the training value.

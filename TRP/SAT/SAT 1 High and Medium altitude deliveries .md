@@ -15,8 +15,8 @@ Tactics and profiles for high/medium level A-G weapon deliveries.
 * Objective 1: Familiarization with cockpit cues/references for high/medium altitude weapon release.
 * Objective 2: Familiarization with Z-charts.
 * Objective 3: Use 40 High Altiude Dive Bomb Profile.
-* Objective 4: High/medium altitude Shooter-Cover attack.
-* Objective 5: High/medium altitude Shooter-Shooter attack.
+* Objective 4: High/medium altitude Shooter-Cover attack. 
+* Objective 5: High/medium altitude Shooter-Shooter attack. 
 * Objective 6: Utilizing Safe Escape Maneuver.
 * Objective 7: Able to give and receive 3-point attack brief.
 * Objective 8: Know the difference between shooter-shooter and shooter-cover and when they can be used.
@@ -39,5 +39,6 @@ Once all objctives are met, you must self-qualify this lesson.
 
 Focus here is a permissive environment, with a simulated Manpad threat.
 As a minimum conduct 1x high/medium altitude shooter-cover attack and 1x high/medium altitude shooter-shooter attack using the 40 HADB profile found in the SAT document.
+Prior to attack, establish holding and provide 3-point attack brief.
 
 This lesson can be combined with SAT-2
