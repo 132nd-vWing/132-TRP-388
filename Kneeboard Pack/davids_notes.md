@@ -1,3 +1,18 @@
+
+## 191006 Update
+
+### Check-list: Before Engine Start 
+Add: Lights EXT ... SET
+
+### After Engine Start & Egress
+Add: CAT1 & 3 .. SET
+
+### After Engine Start (cont) 
+Add: test of TGP?
+Add: TGP .. CHECK STOW
+
+## 191006 Update END
+
 David's notes on checklist.  
 Not organised or vetted :)
 
@@ -21,8 +36,6 @@ fuel qnt - set (test and set?)
 threat warning aux: on (is this volume, i prefer low/nil until fence checks?, )
 
 SJ preset (does this work?)
-
-AIR REFUEL SWITCH.... CYCLE & CHECK (HOW TO CHECK?)  
 
 MISSING ITEMS?  
 ADI RAISE ?  
