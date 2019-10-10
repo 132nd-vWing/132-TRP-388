@@ -1,28 +1,28 @@
 # 338th vSqn TRP - PRE-01
 
-## Lesson Title
+## Lesson Title:
 Welcome to the 338th
 
-## Required Lessons
+## Required Lessons:
 None.
 
-## Lesson Type
+## Lesson Type:
 Self Qualification
 
-## Topics
+## Topics:
 * Preparation of students to undertake the F-16 Fight Falcon training course
 
-## Objectives
+## Objectives:
 * Objective 1: Read and understand 132nd Welcome letter.
 * Objective 2: Read and understand Multiplayer instructions.
 * Objective 3: Read and understand 388th SOP.
 
-## Trainee Preparation
+## Trainee Preparation:
 The trainee should have either:
 * Attended a class introduction
 * Been invited to undertake the conversion to type course
 
-## Instructor Preparation
+## Instructor Preparation:
 Not required.
 
 ## Lesson content:
@@ -32,3 +32,6 @@ This is a self qualification lesson for which time with an instructor or another
 * Read the 132nd Virtual Wing, 388th Virtual Squadron Standard Operating Procedures, found at http://www.132virtualwing.org/index.php/page/documents
 
 Questions regarding the content of any of these documents should be directed to an instructor pilot.
+
+## Debrief:
+Not required.

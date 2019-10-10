@@ -1,26 +1,36 @@
 # 338th vSqn TRP - BAS-01
-## Lesson Title
+
+## Lesson Title:
 Basic Game Configuration
 
-## Required Lessons
+## Required Lessons:
 PRE-01
 
-## Lesson Type
+## Lesson Type:
 Self Qualification
 
-## Topics
+## Topics:
 Preparation of students to undertake the F-16 Fight Falcon training course
 
-## Objectives
+## Objectives:
 * Objective 1: To configure Teamspeak to communicate with 132nd VW Pilots, both socially and for fligths.
 * Objective 2: Prepare and configure DCS for flights on the 132nd VW server.
 * Objective 3: Successfully connect to the server.
 
-## Trainee Preparation
+## Trainee Preparation:
 Have DCS installed and patched to the latest Open Beta.
 
-## Instructor Preparation
+## Instructor Preparation:
 Not required.
 
 ## Lesson content:
 Download Teamspeak 3 from the official Teamspeak website, found at https://www.teamspeak.com/en/
+Connect to the 132nd VW Teamspeak server, using the credentials provided in your Welcome Letter.
+Download DCS Simple Radio and configure as required (https://github.com/ciribob/DCS-SimpleRadioStandalone/wiki)
+Download and configure OvGME as detailed in the OvGME for Pilots guide, found at http://132virtualwing.org/files/docs/PDF/OvGME%20for%20pilots.PDF
+Launch DCS and attempt to conenct to the 132nd Virtual Wing server.
+
+Questions regarding the content of this lesson may be directed to any 132nd VW instructor pilot.
+
+## Debrief:
+Not required.
