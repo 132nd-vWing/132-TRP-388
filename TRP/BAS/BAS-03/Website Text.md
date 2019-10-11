@@ -10,7 +10,7 @@ BAS-02
 Self Qualification
 
 ## Topics:
-Familiarisation with the 388th Sqn. line-up and take-off procedures.
+Familiarisation with the 388th line-up and take-off procedures.
 Familiarisation with the aerial handling of the Viper.
 Familiarisation with the landing characteristics of the Viper.
 
@@ -18,7 +18,8 @@ Familiarisation with the landing characteristics of the Viper.
 * Objective 1: To configure the jet in preparation for take-off, in accordance with the 388th checklist.
 * Objective 2: To take-off and 'clean-up' the aircraft in accordance with the 388th checklist.
 * Objective 3: To perform level turns at 30 degrees of bank.
-* Objective 4: To return to the airfield and safely land, performing an 'over-head break'.
+* Objective 4: To return to the airfield and perform a touch-and-go, via a straight-in approach.
+* Objective 5: To return to the airfield and safely land, performing an 'over-head break'.
 
 ## References
 * 388th Training Manual:
