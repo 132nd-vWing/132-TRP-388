@@ -1,4 +1,4 @@
-# 338th vSqn TRP - BAS-03
+# 338th vFighter Squadron TRP - BAS-03
 
 ## Lesson Title:
 Basic Flight
@@ -29,15 +29,15 @@ Familiarisation with the landing characteristics of the Viper.
 ## Trainee Preparation:
 Have DCS installed and patched to the Open Beta version available on the 132nd training server.
 Ensure that the 388th Kneeboard Pack is correctly placed into the kneeboard folder.
-Familiarise yourself with the over-head break as desribed in the 388th Sqn. Training Manual.
+Familiarise yourself with the over-head break as desribed in the 388th Training Manual.
 
 ## Instructor Preparation:
 Not required.
 
 ## Lesson content:
-This lesson must be conducted offline - do not connect to the 132nd training server unless this flight is flown with a 388th Sqn. Instructor Pilot.
+This lesson must be conducted offline - do not connect to the 132nd training server unless this flight is flown with a 388th Instructor Pilot.
 
-Throughout this lesson, the student pilot should follow the checklist provided in the 388th Sqn. kneeboard pack to safely take-off, fly around the airfield performing a number of straight climbs and descents as well as level turns, progressing to climbing turns and descents. Students should particularly focus on maintaining straight and level flight and performing level turns, as these will be critical for tactical flight.
+Throughout this lesson, the student pilot should follow the checklist provided in the 388th kneeboard pack to safely take-off, fly around the airfield performing a number of straight climbs and descents as well as level turns, progressing to climbing turns and descents. Students should particularly focus on maintaining straight and level flight and performing level turns, as these will be critical for tactical flight.
 
 This lesson is conducted as a self-qualification. Once all objctives are met, you must self-qualify this lesson.
 Questions regarding the content of this lesson may be directed to any 132nd VW instructor pilot.
