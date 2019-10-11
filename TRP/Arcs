@@ -4,9 +4,9 @@ BAS-01 - Basic Game Congiruration
 BAS-02 - Basic Aircraft Procedures
 BAS-03 - Basic Flight
 BAS-04 - Air-to-Air Refuelling
-BAS-05 - Percision Flight
 AVI-01 - Systems Configuration & Management
 NAV-01 - Basic Navigation
+BAS-05 - Precision Flight (IP)
 COM-01 - In-Flight Communicatiosn (The 132nd Way of Flying)
 
 
@@ -21,17 +21,17 @@ WPN-01 - Guns and Rockets
 WPN-02 - AIM-120C AMRAAMAMAMMAAMAA
 WPN-03 - AIM-7 Sparrow
 WPN-04 - AIM-9 & JHMCS
-ACT-02 - BVR & Mutual Support  (ACT 2)
+TAC-05 - BVR & Mutual Support  (ACT 2)
 WPN-05- CCIP Bombing
 WPN-06 - CCRP Bombing
-SAT-01 - High and Medium altitude deliveries  (SAT 1)
-SAT-02 - Low altitude deliveries (SAT 2)
+TAC-02 - High and Medium altitude deliveries  (SAT 1)
+TAC-03 - Low altitude deliveries (SAT 2)
+-- TAC-04 - Surface Attack Basics (SAT 3)   (NECK: SUGGEST DELETE)
 * AVI-03 - Link-16 and IFF
-ACT-01 - WVR Engagemenet Basics  (ACT 1)
-TAC-02 - Defensive Systems and Manouevres
-TAC-03 - Night Operations
-TAC-04 - AWACS communications
-TAC-05 - MQT Checkout
+TAC-06 - WVR Engagemenet Basics  (ACT 1)
+TAC-07 - Defensive Systems and Manouevres
+TAC-08 - Night Operations
+TAC-09 - MQT Checkout
 
 
 
