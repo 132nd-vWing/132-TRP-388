@@ -16,6 +16,7 @@ Self Qualification
 * Objective 1: Read and understand 132nd Welcome letter.
 * Objective 2: Read and understand Multiplayer instructions.
 * Objective 3: Read and understand 388th SOP.
+* Objective 4: Read and understand 388th Welcom letter
 
 ## Trainee Preparation:
 The trainee should have either:
@@ -30,6 +31,7 @@ This is a self qualification lesson for which time with an instructor or another
 * Read the 132nd Virtual Wing Welcome Letter, found at http://www.132virtualwing.org/index.php/page/documents
 * Read the 132nd Virtual Wing Multiplayer Instructions, found at http://www.132virtualwing.org/index.php/page/documents
 * Read the 132nd Virtual Wing, 388th Virtual Squadron Standard Operating Procedures, found at http://www.132virtualwing.org/index.php/page/documents
+* Read the 388th Welcome letter provided by an IP when beeing accepted into the Squadron
 
 Questions regarding the content of any of these documents should be directed to an instructor pilot.
 
