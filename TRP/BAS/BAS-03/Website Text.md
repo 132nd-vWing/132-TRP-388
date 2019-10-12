@@ -37,10 +37,10 @@ Not required.
 ## Lesson content:
 This lesson must be conducted offline - do not connect to the 132nd training server unless this flight is flown with a 388th Instructor Pilot.
 
-Throughout this lesson, the student pilot should follow the checklist provided in the 388th kneeboard pack to safely take-off, fly around the airfield performing a number of straight climbs and descents as well as level turns, progressing to climbing turns and descents. Students should particularly focus on maintaining straight and level flight and performing level turns, as these will be critical for tactical flight.
+Throughout this lesson, the student pilot should follow the checklist provided in the 388th kneeboard pack to safely take-off, fly around the airfield performing a number of straight climbs and descents and level turns, progressing to climbing turns and descents. Students should particularly focus on maintaining straight and level flight and performing level turns, as these will be critical for tactical flight.
 
 This lesson is conducted as a self-qualification. Once all objctives are met, you must self-qualify this lesson.
-Questions regarding the content of this lesson may be directed to any 132nd VW instructor pilot.
+Questions regarding the content of this lesson may be directed to any 388th Instructor Pilot.
 
 ## Debrief:
 Not required.
