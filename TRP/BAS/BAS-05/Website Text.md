@@ -7,7 +7,7 @@ Precision Flight
 BAS-04
 
 ## Lesson Type:
-Instructor Pilot Reviewed
+Self Qualification
 
 ## Topics:
 Familiarisation with the principles of precision flight.
@@ -31,7 +31,6 @@ Familiarisation with a number of formations used within the 132nd Virtual Wing.
 Have DCS installed and patched to the Open Beta version available on the 132nd training server.
 Ensure that the 388th Kneeboard Pack is correctly placed into the kneeboard folder.
 Familiarise yourself with the tanker rejoin and tanking proces as desribed in the 388th Training Manual.
-Ensure that TacView, or some other recording mechanism, is correctly operating.
 
 ## Instructor Preparation:
 Not required.
@@ -39,13 +38,13 @@ Not required.
 ## Lesson content:
 This lesson must be conducted offline - do not connect to the 132nd training server unless this flight is flown with a 388th Instructor Pilot.
 
-To complete the required objectives, the student should either launch an air-start mission or takeoff from an airfield following the appropriate checklists and SOPs. In accordance with the procedures outlined in the 388th Training Manual, the student should fly a pre-planned route (any) of at least 50nm, maintaining FL240 and 340 knots throughout.
+To complete the required objectives, the student should either launch an air-start mission or takeoff from an airfield following the appropriate checklists and SOPs. In accordance with the procedures outlined in the 388th Training Manual, the student should fly a pre-planned route (any) of at least 50nm, maintaining a chosen altitude and speed throughout.
 
 The student pilot should then, adhering to the appropriate SOPs, rejoin an airborne tanker (at any altitude) and fly in formation with it through at least two turns, the first of which should be in the left observation position and the second of which should be flown in the right formation position.
 
 After concluding the second turn, the student should safely break away from the tanker before performing at least two energy sustaining turns - one in each direction - at which point the lesson may be concluded. 
 
-This lesson is conducted as a self-qualification. Once all objctives are met, you must provide a TacView or other recording to a 388th Instructor Pilot for review.
+This lesson is conducted as a self-qualification. Once all objctives are met, you must self-qualify the lesson.
 Questions regarding the content of this lesson may be directed to any 388th Instructor Pilot.
 
 ## Debrief:
