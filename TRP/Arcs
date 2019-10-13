@@ -1,18 +1,18 @@
 ## IQT ##
 PRE-01 - Welcome to the 388th
-BAS-01 - Basic Game Congiruration
+BAS-01 - Basic Game Configuration
 BAS-02 - Basic Aircraft Procedures
 BAS-03 - Basic Flight
 BAS-04 - Air-to-Air Refuelling
 AVI-01 - Systems Configuration & Management
 NAV-01 - Basic Navigation
-BAS-05 - Precision Flight (IP)
-COM-01 - In-Flight Communicatiosn (The 132nd Way of Flying)
+BAS-05 - Precision Flight 
+COM-01 - In-Flight Communicatiosn (The 132nd Way of Flying)  (IP)
 
 
 
 ## MQT ##
-TAC-01 - Tactical Formations & Turns
+TAC-01 - Tactical Formations & Turns  (IP)
 NAV-02 - IFR Navigation
 COM-02 - Combat Communications
 NAV-03 - Night Navigation
@@ -21,17 +21,16 @@ WPN-01 - Guns and Rockets
 WPN-02 - AIM-120C AMRAAMAMAMMAAMAA
 WPN-03 - AIM-7 Sparrow
 WPN-04 - AIM-9 & JHMCS
-TAC-05 - BVR & Mutual Support  (ACT 2)
+ACT-02 - BVR & Mutual Support  (ACT 2)  (IP)
 WPN-05- CCIP Bombing
 WPN-06 - CCRP Bombing
-TAC-02 - High and Medium altitude deliveries  (SAT 1)
-TAC-03 - Low altitude deliveries (SAT 2)
--- TAC-04 - Surface Attack Basics (SAT 3)   (NECK: SUGGEST DELETE)
+SAT-01 - High and Medium altitude deliveries  (SAT 1)
+SAT-02 - Low altitude deliveries (SAT 2)
 * AVI-03 - Link-16 and IFF
-TAC-06 - WVR Engagemenet Basics  (ACT 1)
-TAC-07 - Defensive Systems and Manouevres
-TAC-08 - Night Operations
-TAC-09 - MQT Checkout
+ACT-01 - WVR Engagemenet Basics  (ACT 1)  (IP)
+TAC-02 - Defensive Systems and Manouevres
+TAC-03 - Night Operations
+TAC-05 - MQT Checkout  (IP)
 
 
 
@@ -40,7 +39,7 @@ BAS-05 - Precision Flight
 AVI-01 - Systems Configuration & Management
 AVI-02 - Radar
 AVI-03 - Link-16 and IFF
-TAC-08 - MQT Checkout
+TAC-05 - MQT Checkout
 
 
 
@@ -98,7 +97,7 @@ SAT 6: SCAR
 
 **SEAD**
 SEAD : Wild weasel 1 (need to be developed)
-SEAD: Wild Weaserl 2 (need to be developed)
+SEAD: Wild Weasel 2 (need to be developed)
 
 
 
