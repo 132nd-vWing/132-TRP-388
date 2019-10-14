@@ -46,7 +46,8 @@ This mission is conducted as a 2-ship flight (minmum) or a 4-ship flight.
 
 
 MQ pilots will plan, prepare and brief a DCA CAP mission.
-MQ pilot will coordinate with a 2ship aggressor flight (MQ or IP). (this can be coordinated with pilots flying ACT-04 OCA SWEEP, for increased tranining value for everyone involved).
+MQ pilot will coordinate with a 2ship aggressor flight (MQ or IP). (this can be coordinated with pilots flying ACT-04 OCA SWEEP or SAT-7, 
+for increased tranining value for everyone involved).
 
 FL will prepare and deliver a flightbrief according to 388th SOP.
 
