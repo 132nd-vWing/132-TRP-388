@@ -1,4 +1,4 @@
-# 338th vSqn TRP - ACT-03
+# 338th vSqn TRP - ACT-07
 ## Lesson Title
 Flight Lead Upgrade (FLUG) 4 ship DCA CAP
 
