@@ -23,15 +23,19 @@ Objective 8: Flight lead and wingman training
 
 ## Trainee Preparation
 - Read 132-TTP-Air-to-Air-1 v1.0: https://www.dropbox.com/s/mxjw8q1idcxsi8q/132-TTP-AA-1.pdf?dl=0
-Focus on chapter 7 and 8, Basic Radar and missile theory and BVR
 
+- Read 132nd Doctrinal Publication 1: Air Warfare Doctrine: https://www.dropbox.com/s/wd0ppnsrje63cux/132-DP-1%20132nd%20Air%20Warfare%20Doctrine%20v1.0.pdf?dl=0
 
-## Instructor Preparation
 - Coordinate with another IP/MQ pilot to support the lesson as aggressor. (Ideal is 2, so the aggressors can do various maneuvers)
 - Book necessary airspace to conduct the lesson.
 - Prepare theory brief with most important topics.
 - Prepare Mission briefing.
 - Prepare Mission Data Card
+
+
+
+## Instructor Preparation
+N/A
 
 
 ## Lesson Content
@@ -42,7 +46,7 @@ This mission is conducted as a 2-ship flight (minmum) or a 4-ship flight.
 
 
 MQ pilots will plan, prepare and brief a DCA CAP mission.
-MQ pilot will coordinate with a 2ship aggressor flight (MQ or IP).
+MQ pilot will coordinate with a 2ship aggressor flight (MQ or IP). (this can be coordinated with pilots flying ACT-04 OCA SWEEP, for increased tranining value for everyone involved).
 
 FL will prepare and deliver a flightbrief according to 388th SOP.
 
