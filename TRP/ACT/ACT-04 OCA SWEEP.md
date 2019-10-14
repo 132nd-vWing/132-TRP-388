@@ -22,7 +22,8 @@ Objective 6: Flight lead and wingman training
 ## Trainee Preparation
 - Read 132-TTP-Air-to-Air-1 v1.0: https://www.dropbox.com/s/mxjw8q1idcxsi8q/132-TTP-AA-1.pdf?dl=0
 - Read 132nd Doctrinal Publication 1: Air Warfare Doctrine: https://www.dropbox.com/s/wd0ppnsrje63cux/132-DP-1%20132nd%20Air%20Warfare%20Doctrine%20v1.0.pdf?dl=0
-- Coordinate with minimum 2 IP/MQ pilots to support the lesson as aggressor.  
+
+- Coordinate with minimum 2 IP/MQ pilots to support the lesson as aggressor.   Aggressor can be from 388th, 108th or 494th. 
 - Book necessary airspace to conduct the lesson.
 - Prepare theory brief with most important topics.
 - Prepare Mission briefing.
