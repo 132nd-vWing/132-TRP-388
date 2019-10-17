@@ -16,7 +16,7 @@ Familiarisation with the 388th Kneeboard Pack.
 Familiarisation with the approved start-up and taxi procedures for the F-16C Fighting Falcon or 'Viper'.
 
 ## Objectives:
-* Objective 1: To be able to start the engines of the jet in a safe and appropraite manner.
+* Objective 1: To be able to start the engines of the jet in a safe and appropriate manner.
 * Objective 2: To be able to configure avionics required to safely taxi the jet.
 * Objective 3: To be able to safely taxi the jet in accordance with the 388th SOPs.
 * Objective 4: To develop checklist discipline in flying the jet.
@@ -27,8 +27,7 @@ Familiarisation with the approved start-up and taxi procedures for the F-16C Fig
 * 388th Kneeboard Pack:
 
 ## Trainee Preparation:
-Have DCS installed and patched to the latest Open Beta.
-Ensure that the 388th Kneeboard Pack is correctly placed into the kneeboard folder.
+Ensure that the 388th Kneeboard Pack is correctly placed into the in-game kneeboard folder.
 
 ## Instructor Preparation:
 Not required.
@@ -38,7 +37,7 @@ This lesson must be conducted offline - do not connect to the 132nd training ser
 
 Throughout this lesson, the student pilot should follow the checklist provided in the 388th kneeboard pack to start their jet at an airfield and safely taxi to the runway, adhering to the appropriate SOPs whilst doing so.
 
-This lesson is conducted as a self-qualification. Once all objctives are met, you must self-qualify this lesson.
+This lesson is conducted as a self-qualification. Once all objectives are met, you must self-qualify this lesson.
 Questions regarding the content of this lesson may be directed to any 388th instructor pilot.
 
 ## Debrief:

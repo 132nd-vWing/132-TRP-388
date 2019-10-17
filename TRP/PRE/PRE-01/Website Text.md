@@ -10,7 +10,7 @@ None.
 Self Qualification
 
 ## Topics:
-* Preparation of students to undertake the F-16 Fight Falcon training course
+* Preparation of students to undertake the 388th Virtual Squadron Training Program
 
 ## Objectives:
 * Objective 1: Read and understand 132nd Welcome letter.
@@ -31,7 +31,7 @@ This is a self qualification lesson for which time with an instructor or another
 * Read the 132nd Virtual Wing Welcome Letter, found at http://www.132virtualwing.org/index.php/page/documents
 * Read the 132nd Virtual Wing Multiplayer Instructions, found at http://www.132virtualwing.org/index.php/page/documents
 * Read the 132nd Virtual Wing, 388th Virtual Squadron Standard Operating Procedures, found at http://www.132virtualwing.org/index.php/page/documents
-* Read the 388th Welcome Letter provided by an IP when beeing accepted into the Squadron
+* Read the 388th Welcome Letter provided by an IP when being accepted into the Squadron
 
 Questions regarding the content of any of these documents should be directed to an instructor pilot.
 

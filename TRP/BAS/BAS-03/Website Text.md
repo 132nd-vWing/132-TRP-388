@@ -27,9 +27,7 @@ Familiarisation with the landing characteristics of the Viper.
 * 388th Kneeboard Pack:
 
 ## Trainee Preparation:
-Have DCS installed and patched to the Open Beta version available on the 132nd training server.
-Ensure that the 388th Kneeboard Pack is correctly placed into the kneeboard folder.
-Familiarise yourself with the over-head break as desribed in the 388th Training Manual.
+Familiarise yourself with the over-head break as described in the 388th Training Manual.
 
 ## Instructor Preparation:
 Not required.
@@ -39,7 +37,7 @@ This lesson must be conducted offline - do not connect to the 132nd training ser
 
 Throughout this lesson, the student pilot should follow the checklist provided in the 388th kneeboard pack to safely take-off, fly around the airfield performing a number of straight climbs and descents and level turns, progressing to climbing turns and descents. Students should particularly focus on maintaining straight and level flight and performing level turns, as these will be critical for tactical flight.
 
-This lesson is conducted as a self-qualification. Once all objctives are met, you must self-qualify this lesson.
+This lesson is conducted as a self-qualification. Once all objectives are met, you must self-qualify this lesson.
 Questions regarding the content of this lesson may be directed to any 388th Instructor Pilot.
 
 ## Debrief:

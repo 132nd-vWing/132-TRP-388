@@ -18,8 +18,8 @@ Familiarisation with a number of formations used within the 132nd Virtual Wing.
 * Objective 2: To demonstrate an understanding of the basic physics concepts defining the relationship between airspeed and aircraft performance.
 * Objective 3: To demonstrate an ability to precisely control the F-16C Fighting Falcon in flight.
 * Objective 4: To safely conduct a formation flight.
-** Objective 4a: To fly within 50ft of the prescribed en-route altitude.
-** Objective 4b: To fly within 10kts of the prescribed en-route airspeed.
+* Objective 4a: To fly within 50ft of the prescribed en-route altitude.
+* Objective 4b: To fly within 10kts of the prescribed en-route airspeed.
 * Objective 5: To conduct an energy sustaining, level turn.
 
 ## References
@@ -28,9 +28,7 @@ Familiarisation with a number of formations used within the 132nd Virtual Wing.
 * 388th Kneeboard Pack:
 
 ## Trainee Preparation:
-Have DCS installed and patched to the Open Beta version available on the 132nd training server.
-Ensure that the 388th Kneeboard Pack is correctly placed into the kneeboard folder.
-Familiarise yourself with the tanker rejoin and tanking proces as desribed in the 388th Training Manual.
+Create or download mission file for off-line use.
 
 ## Instructor Preparation:
 Not required.
@@ -44,7 +42,7 @@ The student pilot should then, adhering to the appropriate SOPs, rejoin an airbo
 
 After concluding the second turn, the student should safely break away from the tanker before performing at least two energy sustaining turns - one in each direction - at which point the lesson may be concluded. 
 
-This lesson is conducted as a self-qualification. Once all objctives are met, you must self-qualify the lesson.
+This lesson is conducted as a self-qualification. Once all objectives are met, you must self-qualify the lesson.
 Questions regarding the content of this lesson may be directed to any 388th Instructor Pilot.
 
 ## Debrief:
