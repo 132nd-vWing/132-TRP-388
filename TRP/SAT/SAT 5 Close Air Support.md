@@ -25,7 +25,7 @@ Know the meaning of Danger Close
 Know the difference between JTAC, FAC and FAC(A)
 Know how to use marking
 Know reference point and talk-on
-Know how to perform a timehack.
+Know how to perform a time-hack.
 Understand Keyhole IPs
 Know anchor point and unit of measure
 
@@ -46,6 +46,6 @@ This lesson is conducted in two parts:
 1. Theory lesson about CAS.
 2. Practical event applying what you have learned.
 
-Pilot will conduct full CAS procedure (Authenticaion, recive traffic and airspace update, give check-in brief, recive AO update, recive CAS brief, conduct attack and give/recive BDA).
+Pilot will conduct full CAS procedure (Authentication, receive traffic and airspace update, give check-in brief, receive AO update, receive CAS brief, conduct attack and give/receive BDA).
 
 During the event pilot will conduct type 1, 2 and 3 attacks, using both pre-planned IP's and Keyhole IP's.

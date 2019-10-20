@@ -17,7 +17,7 @@ Know how to operate safely at night
 * Objective 2: Know how to adjust NVG
 * Objective 3: Know how to operate IR pointer on TGP
 * Objective 4: Know all different light settings and how to adjust them
-* Objective 5: Know how to setup cockpit in night mode
+* Objective 5: Know how to set-up cockpit in night mode
 * Objective 6: Know IR brevity and its meaning
 
 

@@ -35,19 +35,19 @@ N/A
 
 ## Lesson Content
 This lesson is conducted as a self-qualification.
-Once all objctives are met, you must self-qualify this lesson.
+Once all objectives are met, you must self-qualify this lesson.
 
-This mission is conducted as a 2-ship flight (minmum) or a 4-ship flight.
+This mission is conducted as a 2-ship flight (minimum) or a 4-ship flight.
 
 
 MQ pilots will plan, prepare and brief a SWEEP mission.
 MQ pilot will coordinate with a 2ship aggressor flight (MQ or IP).
 
-FL will prepare and deliver a flightbrief according to 388th SOP.
+FL will prepare and deliver a flight-brief according to 388th SOP.
 
 Setup:
 Aggressor will setup a DCA CAP in a dedicated FAOR , protecting a point, area or unit. 
-Aggressor can fly ACT-03 DCA CAP and thus combining the trainign value for everyone involved.
+Aggressor can fly ACT-03 DCA CAP and thus combining the training value for everyone involved.
 At a pre-determined time, the OCA Sweep flight will initiate its sweep against the point, area or unit that DCA CAP is protecting.
 
 

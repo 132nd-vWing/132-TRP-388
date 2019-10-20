@@ -15,7 +15,7 @@ Gain experience as FL in Surface Attacks.
 * Objective 1: Plan, prepare and execute mission as Flight
 * Objective 2: Conduct SAT-01 or SAT-02 as FL
 * Objective 3: Prepare and share MDC with WM
-* Objective 4: Debrief flight using tacview (Focus on attack parameters)
+* Objective 4: Debrief flight using Tacview (Focus on attack parameters)
 
 
 

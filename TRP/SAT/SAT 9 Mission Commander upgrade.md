@@ -28,32 +28,30 @@ Checkout as Mission Commander in a SAT mission. Part of Mission Commander upgrad
 
 
 ## Trainee Preparation
-Read and utilize: 132-TTP-13 Air Interdicion: https://www.dropbox.com/s/b7ppa1vzba778f0/132-TTP-13%20Air%20Interdiction%20v1.0.pdf?dl=0
-- Use Annex C AI planning checklist and Annex D AI Briefing guide as tools to prepare for this mission.
+Read and utilize: 132-TTP-13 Air Interdiction: https://www.dropbox.com/s/b7ppa1vzba778f0/132-TTP-13%20Air%20Interdiction%20v1.0.pdf?dl=0
+- Use Annex C AI planning check-list and Annex D AI Briefing guide as tools to prepare for this mission.
 
 - Based on scenario from IP, plan and prepare for the flight
-- Prepare mission briefing for the AI Strike pachae
+- Prepare mission briefing for the AI Strike package
 - Prepare MDC and provide to flight.
 
 ## Instructor Preparation
 - Coordinate with Aggressors (388th, 104th og 494th)
 - Provide scenario for the flight.
-- Try to have particpants in the package from 108th and 494th + controllers from 176th
+- Try to have participants in the package from 108th and 494th + controllers from 176th
 
 
-##Lesson Content
-Student pilot will recived a scenario from the IP in good time prior to the event. Student pilot will then plan and prepare the mission.
+## Lesson Content
+Student pilot will received a scenario from the IP in good time prior to the event. Student pilot will then plan and prepare the mission.
 Student pilot will choose the tactics for handling the mission based on scenario, target and threat.
 Student pilot will coordinate and include package participants (SEAD lead+ A-A Lead) in the  mission planning. (Share responsibility)
 Student pilot will prepare mission materials (MDC) and hold a brief for all members in the package.
 After mission, student pilot will debrief the package performance, focusing on coordination, SA and communications.
 
-
-
 This mission can be conducted in day or night / good or bad weather pending IP instructions. 
-Mission will be conducted with both A-A and A-G threats, can be conducted with multiple A-A threats both in numbers and type of aircrafts. 
+Mission will be conducted with both A-A and A-G threats, can be conducted with multiple A-A threats both in numbers and type of aircraft's. 
 (For aggressors, they can combine this with ACT 3 DCA CAP or ACT-6 DCA Intercept
-Student pilot should be prepared to handle all parameters for this mission, and will recive day/night / weather with the scenario from IP.
+Student pilot should be prepared to handle all parameters for this mission, and will receive day/night / weather with the scenario from IP.
 
 IP will fly either as a WM or FL in the package.
 
@@ -65,4 +63,4 @@ A package is needed to be able to successfully conduct the strike.
 
 ## Debrief
 - Debrief for all participants conducted after the event using tacview going through the big picture focused on the package conducted by student pilot.
-- Student pilot will recive feedback from IP after debrief with the flight is conducted.
+- Student pilot will receive feedback from IP after debrief with the flight is conducted.

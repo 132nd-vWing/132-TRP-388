@@ -12,13 +12,13 @@ Self-Qualification
 Building a understanding and proficiency in for OCA Escort missions.
 
 ## Objectives
-Objective 1: OCA Escort Mission
-Objective 2: Comunication between flights (Strike + Escort)
-Objective 3: Mission planning and flight briefing
-Objective 4: BVR timeline
-Objective 5: ROE 
-Objective 6: Commit criterias
-Objective 7: Flightlead and wingman practice
+- Objective 1: OCA Escort Mission
+- Objective 2: Communication between flights (Strike + Escort)
+- Objective 3: Mission planning and flight briefing
+- Objective 4: BVR timeline
+- Objective 5: ROE 
+- Objective 6: Commit criteria(s)
+- Objective 7: Flightlead and wingman practice
 
 ## Trainee Preparation
 - Read 132-TTP-Air-to-Air-1 v1.0: https://www.dropbox.com/s/mxjw8q1idcxsi8q/132-TTP-AA-1.pdf?dl=0
@@ -41,20 +41,20 @@ N/A
 
 ## Lesson Content
 This lesson is conducted as a self-qualification.
-Once all objctives are met, you must self-qualify this lesson.
+Once all objectives are met, you must self-qualify this lesson.
 
 This mission is conducted as a 2-ship flight with Student Pilot either as FL or WM
 
 
 MQ pilots will plan, prepare and brief a OCA ESCORT mission.
 MQ pilot will coordinate with a an aggressor flight (MQ or IP) + a strike flight (MQ or IP)
-- As a minimum pick out a rendevouz point and push time +  coordination frequency. Making sure Strike + Escort rejoin and push at given time and are able to communicate.
+- As a minimum pick out a rendezvous point and push time +  coordination frequency. Making sure Strike + Escort rejoin and push at given time and are able to communicate.
 
-FL will prepare and deliver a flightbrief according to 388th SOP.
+FL will prepare and deliver a flight-brief according to 388th SOP.
 
 Setup:
-Aggressor will setup a DCA CAP in a dedicated FAOR , protecting the target area.
-Aggressor can fly ACT-03 DCA CAP and thus combining the trainign value for everyone involved. 
+Aggressor will setup a DCA CAP in a dedicated FAOR , protecting the target area.  
+Aggressor can fly ACT-03 DCA CAP and thus combining the training value for everyone involved.   
 At a pre-determined time, the Strike flight will initiate its ingress toward the target that (Aggressor (DCA CAP) is protecting.
 
 

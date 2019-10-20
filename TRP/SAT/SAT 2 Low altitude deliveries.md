@@ -12,7 +12,7 @@ Self Qualification
 Tactics and profiles for low-altitude A-G weapon deliveries.
 
 ## Objectives
-* Objctive 1: Know the different strategic and counterland mission-types:
+* Objective 1: Know the different strategic and counterland mission-types:
 (Strike, AI, GAI, SCAR, CAS, FAC(A), CSAR).
 * Objective 2: Use correct FENCE as per Training Manual.
 * Objective 3: Know and respect Targeting Contract:
@@ -32,7 +32,7 @@ Not applicable(NA)
 ##Lesson Content
 This lesson is a special form of self-qualification.
 The lesson must be flown with another MQ pilot (MQ or above). MQ pilot will be Flight lead for trainee.
-Once all objctives are met, you must self-qualify this lesson.
+Once all objectives are met, you must self-qualify this lesson.
 
 Focus here is a non-permissive environment, with a simulated SAM threat that prevents the flight to fly medium or high altitude.
 Focus on pre-planned attacks in a high threat environment to prepare for Strike, OCA attack and AI missions. The flight need to ingress low level to a IP, continue into the target to conduct coordinated attacks shooter-shooter.

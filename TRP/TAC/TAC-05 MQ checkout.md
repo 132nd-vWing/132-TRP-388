@@ -10,7 +10,7 @@ N/A
 IP mandatory
 
 ## Topics:
-This is the final flight of the TRP in the 388th to verify trainee status before getting MQ status.
+This is the final flight of the initial training in the 388th to verify trainee status before getting MQ status.
 
 ## Objectives:
 Objective 1: Conduct a simulated combat mission

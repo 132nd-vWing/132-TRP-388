@@ -48,5 +48,5 @@ The Instructor Pilot should evaluate the students ability to understand, perform
 - The trainee is able to find the enemy after a merge.
 - The trainee is able to easily identify one- and two-circle fights.
 - The trainee is able to explain key concepts relating to WVR engagements.
-- The trainee is able to identify the energy state of an opponent compared to their own and make decisions accorfingly.
+- The trainee is able to identify the energy state of an opponent compared to their own and make decisions accordingly.
 - The trainee is able to perform basic tasks in the #1 position.

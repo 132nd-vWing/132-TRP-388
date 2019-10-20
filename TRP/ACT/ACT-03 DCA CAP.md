@@ -1,6 +1,6 @@
 # 338th vSqn TRP - ACT-03
 ## Lesson Title
-DCA CAP  (Defensice Counter Air Combat Air Patrol)
+DCA CAP  (Defensive Counter Air Combat Air Patrol)
 
 ## Required Lessons
 ACT-02
@@ -26,7 +26,7 @@ Objective 8: Flight lead and wingman training
 
 - Read 132nd Doctrinal Publication 1: Air Warfare Doctrine: https://www.dropbox.com/s/wd0ppnsrje63cux/132-DP-1%20132nd%20Air%20Warfare%20Doctrine%20v1.0.pdf?dl=0
 
-- Coordinate with another IP/MQ pilot to support the lesson as aggressor. (Ideal is 2, so the aggressors can do various maneuvers)
+- Coordinate with another IP/MQ pilot to support the lesson as aggressor. (Ideal is 2, so the aggressors can do various manoeuvres)
 - Book necessary airspace to conduct the lesson.
 - Prepare theory brief with most important topics.
 - Prepare Mission briefing.
@@ -40,21 +40,21 @@ N/A
 
 ## Lesson Content
 This lesson is conducted as a self-qualification.
-Once all objctives are met, you must self-qualify this lesson.
+Once all objectives are met, you must self-qualify this lesson.
 
-This mission is conducted as a 2-ship flight (minmum) or a 4-ship flight.
+This mission is conducted as a 2-ship flight (minimum) or a 4-ship flight.
 
 
 MQ pilots will plan, prepare and brief a DCA CAP mission.
 MQ pilot will coordinate with a 2ship aggressor flight (MQ or IP). (this can be coordinated with pilots flying ACT-04 OCA SWEEP or SAT-7, 
-for increased tranining value for everyone involved).
+for increased training value for everyone involved).
 
-FL will prepare and deliver a flightbrief according to 388th SOP.
+FL will prepare and deliver a flight-brief according to 388th SOP.
 
 Setup:
 DCA CAP flight will setup a CAP in a designated FAOR (Fighter Area of Responsibility)
 The FAOR should have clear limits, and ROEs.
-FAOR can be setup in any range or MOA or otherwise availeble airspace.
+FAOR can be setup in any range or MOA or otherwise available airspace.
 
 
 

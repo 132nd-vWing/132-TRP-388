@@ -13,27 +13,27 @@ Building an understanding of basic Beyond Visual Range (BVR) tactics.
 Building an understanding mutual support concepts within a flight.
 
 ## Objectives
-*Objective 1: Understand and consume relevant brevity for the posture of enemy fighters.
-**Objective 1.1: HOT
-**Objective 1.2: FLANK
-**Objective 1.3: BEAM
-**Objective 1.4: DRAG
-**Objective 1.5: COLD
-*Objective 2: Understand and use relevant brevity for the posture of your flight.
-**Objective 2.1: COMMIT
-**Objective 2.2: CRANK
-**Objective 2.3: NOTCH
-**Objective 2.4: PUMP
-*Objective 3: Understand and demonstrate the use of a BVR timeline.
-*Objective 4: Understand and demonstrate a number of tactics for BVR engagements:
-**Objective 4.1: Bracket
-**Objective 4.2: Pincer
-**Objective 4.3: Single side offset
-**Objective 4.4: Vertical offset
-**Objective 4.5: Drag
-*Objective 5: Understand and demonstrate the implementation of contracts relating to BVR engagements.
-*Objective 6: Understand and demonstrate the use of simple 'game plans' in BVR engagements.
-*Objective 7: Demonstrate efficient and effective communication during a BVR engagement.
+* Objective 1: Understand and consume relevant brevity for the posture of enemy fighters.
+  - Objective 1.1: HOT
+  - Objective 1.2: FLANK
+  - Objective 1.3: BEAM
+  - Objective 1.4: DRAG
+  - Objective 1.5: COLD
+* Objective 2: Understand and use relevant brevity for the posture of your flight.
+  - Objective 2.1: COMMIT
+  - Objective 2.2: CRANK
+  - Objective 2.3: NOTCH
+  - Objective 2.4: PUMP
+* Objective 3: Understand and demonstrate the use of a BVR timeline.
+* Objective 4: Understand and demonstrate a number of tactics for BVR engagements:
+  - Objective 4.1: Bracket
+  - Objective 4.2: Pincer
+  - Objective 4.3: Single side offset
+  - Objective 4.4: Vertical offset
+  - Objective 4.5: Drag
+* Objective 5: Understand and demonstrate the implementation of contracts relating to BVR engagements.
+* Objective 6: Understand and demonstrate the use of simple 'game plans' in BVR engagements.
+* Objective 7: Demonstrate efficient and effective communication during a BVR engagement.
 
 ## Trainee Preparation
 - Read 132-TTP-Air-to-Air-1 v1.0: https://www.dropbox.com/s/mxjw8q1idcxsi8q/132-TTP-AA-1.pdf?dl=0
@@ -66,7 +66,7 @@ Once all objectives have been met, the trainee will resume the #1 position and l
 
 ## Debrief
 The Instructor Pilot should evaluate the students ability to understand, perform and train the following:
-- Trainee able to communicate effeciently.
+- Trainee able to communicate efficiently.
 - Trainee able to safely follow a BVR timeline 
 - Trainee able to maintain SA.
 - Trainee able to function as engaged fighter and supporting fighter.

@@ -39,7 +39,7 @@ N/A
 
 ## Lesson content:
 This lesson is conducted as a self-qualification.
-Once all objctives are met, you must self-qualify this lesson. 
+Once all objectives are met, you must self-qualify this lesson. 
 
 ## Debrief:
 N/A
