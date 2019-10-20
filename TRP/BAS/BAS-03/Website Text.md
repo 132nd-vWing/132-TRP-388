@@ -21,13 +21,13 @@ Familiarisation with the landing characteristics of the Viper.
 * Objective 4: To return to the airfield and perform a touch-and-go, via a straight-in approach.
 * Objective 5: To return to the airfield and safely land, performing an 'over-head break'.
 
-## References
+## Trainee Preparation:
+Familiarise yourself with the over-head break as described in the 388th Training Manual.
+
+References:
 * 388th Training Manual:
 * 388th SOPs:
 * 388th Kneeboard Pack:
-
-## Trainee Preparation:
-Familiarise yourself with the over-head break as described in the 388th Training Manual.
 
 ## Instructor Preparation:
 Not required.

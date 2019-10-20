@@ -22,13 +22,13 @@ Familiarisation with a number of formations used within the 132nd Virtual Wing.
 * Objective 4b: To fly within 10kts of the prescribed en-route airspeed.
 * Objective 5: To conduct an energy sustaining, level turn.
 
-## References
+## Trainee Preparation:
+Create or download mission file for off-line use.
+
+References:
 * 388th Training Manual:
 * 388th SOPs:
 * 388th Kneeboard Pack:
-
-## Trainee Preparation:
-Create or download mission file for off-line use.
 
 ## Instructor Preparation:
 Not required.

@@ -16,13 +16,13 @@ Familiarisation with techniques for Air-to-Air Refuelling.
 * Objective 1: To safely rejoin with the tanker in accordance with 388th SOPs.
 * Objective 2: To safely conduct an Air-to-Air refuel.
 
-## References
+## Trainee Preparation:
+Familiarise yourself with the tanker rejoin and tanking process as described in the 388th Training Manual.
+
+References:
 * 388th Training Manual:
 * 388th SOPs:
 * 388th Kneeboard Pack:
-
-## Trainee Preparation:
-Familiarise yourself with the tanker rejoin and tanking process as described in the 388th Training Manual.
 
 ## Instructor Preparation:
 Not required.

@@ -20,8 +20,8 @@ Self Qualification
 
 ## Trainee Preparation:
 The trainee should have either:
-* Attended a class introduction
-* Been invited to undertake the conversion to type course
+* Attended a class induction.
+* Been invited to undertake the conversion to type course.
 
 ## Instructor Preparation:
 Not required.

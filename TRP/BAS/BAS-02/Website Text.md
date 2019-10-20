@@ -21,13 +21,13 @@ Familiarisation with the approved start-up and taxi procedures for the F-16C Fig
 * Objective 3: To be able to safely taxi the jet in accordance with the 388th SOPs.
 * Objective 4: To develop checklist discipline in flying the jet.
 
-## References
+## Trainee Preparation:
+Ensure that the 388th Kneeboard Pack is correctly placed into the in-game kneeboard folder.
+
+References:
 * 388th Training Manual:
 * 388th SOPs:
 * 388th Kneeboard Pack:
-
-## Trainee Preparation:
-Ensure that the 388th Kneeboard Pack is correctly placed into the in-game kneeboard folder.
 
 ## Instructor Preparation:
 Not required.
