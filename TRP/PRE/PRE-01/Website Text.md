@@ -1,4 +1,4 @@
-# 338th vSqn TRP - PRE-01
+# 338th vFighter Squadron TRP - PRE-01
 
 ## Lesson Title:
 Welcome to the 338th

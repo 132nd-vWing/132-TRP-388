@@ -1,12 +1,12 @@
 # 338th vSqn TRP - ACT-02
 ## Lesson Title
-BVR & Mutual Support (IP)
+Beyond Visual Ramge engagements & Mutual Support concepts.
 
 ## Required Lessons
 ACT-01
 
 ## Lesson Type
-IP Mandatory
+Instructor Pilot Mandatory
 
 ## Topics
 Building an understanding of basic Beyond Visual Range (BVR) tactics.

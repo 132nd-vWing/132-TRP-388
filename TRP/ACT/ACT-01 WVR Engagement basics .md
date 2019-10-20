@@ -2,14 +2,18 @@
 ## Lesson Title
 ACM - 1v1 WVR Manoeuvring (IP)
 
+
 ## Required Lessons
 TAC-01
 
+
 ## Lesson Type
-IP Mandatory
+Instructor Pilot Mandatory
+
 
 ## Topics
-Building a solid understanding of basic ACM
+Familiarisation with basic Air Combat Manoeuvring (ACM) concepts.
+
 
 ## Objectives
 * Objective 1: Can find the enemy after a merge in the following scenarios:
@@ -36,15 +40,15 @@ Focus on chapter 9, Within Visual Range
 
 
 ## Lesson Content
-This lesson will start by the IP holding a theory brief/mission brief for the flight, in which simple ACM tactics are discussed and the student is offered the opportunity to ask any necessary questions. Following this, the flight should walk and start their jets according to the established procedures. An appropriate departure will be performed with the trainee acting as the #1 in the flight until established in the MOA, where the FL will resume the #1 position.
+This lesson will start by the IP holding a theory brief/mission brief for the flight, in which simple ACM tactics are discussed and the trainee is offered the opportunity to ask any necessary questions. Following this, the flight should walk and start their jets according to the established procedures. An appropriate departure will be performed with the trainee acting as the #1 in the flight until established in the MOA, where the FL will resume the #1 position.
 
-The Instructor should take the student through a number of basic BFM sets of increasing difficulty, starting with an enforced one- or two-circle fight before demonstrating the other, then gradually increasing the difficulty of the sets and introducing altitude or energy differences at the beginning of the set. If required, Air-to-Air refuelling may be conducted.
+The Instructor should take the trainee through a number of basic Basic Fighter Manoeuvring (BFM) sets of increasing difficulty, starting with an enforced one- or two-circle fight before demonstrating the other, then gradually increasing the difficulty of the sets and introducing altitude or energy differences at the beginning of the set. If required, Air-to-Air refuelling may be conducted.
 
-Once all objectives have been met, the trainee will resume the #1 position and lead the flight back to recover. The student will then be debriefed by the instructor.
+Once all objectives have been met, the trainee will resume the #1 position and lead the flight back to recover. The trainee will then be debriefed by the instructor.
 
 
 ## Debrief
-The Instructor Pilot should evaluate the students ability to understand, perform and train the following:
+The Instructor Pilot should evaluate the trainees ability to understand, perform and train the following:
 - The trainee is able to find the enemy after a merge.
 - The trainee is able to easily identify one- and two-circle fights.
 - The trainee is able to explain key concepts relating to WVR engagements.

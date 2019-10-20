@@ -37,9 +37,9 @@ Building foundation for tactical operations by knowing formations and turns
 * 388th Kneeboard Pack:
 
 ## Trainee Preparation:
-Have DCS installed and patched to the DCS version available on the 132nd training server.
-Ensure that the 388th Kneeboard Pack is correctly placed into the kneeboard folder.
-Familiarise yourself with the over-head break as described in the 388th Sqn. Training Manual.
+* Have DCS installed and patched to the DCS version available on the 132nd training server.
+* Ensure that the 388th Kneeboard Pack is correctly placed into the kneeboard folder.
+* Familiarise yourself with the over-head break as described in the 388th Sqn. Training Manual.
 
 ## Instructor Preparation:
 - Prepare theory brief with most important topics
