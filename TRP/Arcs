@@ -19,11 +19,10 @@ NAV-03 - Night Navigation
 AVI-02 - Radar
 WPN-01 - Guns and Rockets
 WPN-02 - AIM-120C AMRAAMAMAMMAAMAA
-WPN-03 - AIM-7 Sparrow
-WPN-04 - AIM-9 & JHMCS
+WPN-0X - AIM-7 Sparrow
+WPN-03 - AIM-9 & JHMCS
 ACT-02 - BVR & Mutual Support  (ACT 2)  (IP)
-WPN-05- CCIP Bombing
-WPN-06 - CCRP Bombing
+WPN-04-  Unguided bombs
 SAT-01 - High and Medium altitude deliveries  (SAT 1)
 SAT-02 - Low altitude deliveries (SAT 2)
 * AVI-03 - Link-16 and IFF
