@@ -1,4 +1,4 @@
-# 338th vSqn TRP - WPN-09
+# 338th vSqn TRP - WPN-03
 ## Lesson Title
 AIM-9 and JHMCS
 
