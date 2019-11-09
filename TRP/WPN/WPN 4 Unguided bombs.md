@@ -16,7 +16,7 @@ Objective 1: Understand the different unguided bomb types (Mk-82 / Mk-82 SNAKE E
 
 Objective 2: Understand the difference between CCIP and CCRP delivery.
 
-Objective 3: Are able to drop unguided bombs using CCIP and CCRP.
+Objective 3: Are able to drop unguided bombs using CCIP and CCRP. (Both Generalpurpose (MK82/MK84) and Cluster bombs (CBU87/CBU97)  )
 
 Objective 4: Know the HUD symbology for CCIP and CCRP
 
