@@ -4,7 +4,11 @@ Flight Lead Upgrade (FLUG) 2 ship opposed SAT
 
 ## Required Lessons
 SAT-03
+SAT-04
+SAT-05
+ACT-03
 ACT-04
+ACT-05
 
 ## Lesson Type
 IP Mandatory
