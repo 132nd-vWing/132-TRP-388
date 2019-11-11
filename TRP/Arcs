@@ -14,22 +14,20 @@ COM-01 - In-Flight Communicatiosn (The 132nd Way of Flying)  (IP)
 ## MQT ##
 TAC-01 - Tactical Formations & Turns  (IP)
 NAV-02 - IFR Navigation
-COM-02 - Combat Communications
-NAV-03 - Night Navigation
-AVI-02 - Radar
-WPN-01 - Guns and Rockets
-WPN-02 - AIM-120C AMRAAMAMAMMAAMAA
-WPN-0X - AIM-7 Sparrow
-WPN-03 - AIM-9 & JHMCS
-ACT-02 - BVR & Mutual Support  (ACT 2)  (IP)
-WPN-04-  Unguided bombs
-SAT-01 - High and Medium altitude deliveries  (SAT 1)
-SAT-02 - Low altitude deliveries (SAT 2)
-* AVI-03 - Link-16 and IFF
-ACT-01 - WVR Engagemenet Basics  (ACT 1)  (IP)
+COM-02 - Combat Communications  ( NECK: WHAT IS INTENDED WITH THIS LESSON? )
+NAV-03 - Night Navigation (NECK: WHAT IS INTENDED WITH THIS, RELATED TO TAC-03 NIGHT OPERATIONS?)
 TAC-02 - Defensive Systems and Manouevres
 TAC-03 - Night Operations
-TAC-05 - MQT Checkout  (IP)
+AVI-02 - Radar
+WPN-01 - Guns and Rockets
+WPN-02 - AIM-120C Amraam
+WPN-03 - AIM-9 & JHMCS
+WPN-04 - Unguided bombs
+ACT-01 - WVR Engagemenet Basics  (ACT 1)  (IP)
+ACT-02 - BVR & Mutual Support  (ACT 2)  (IP)
+SAT-01 - High and Medium altitude deliveries  (SAT 1)
+SAT-02 - Low altitude deliveries (SAT 2)
+TAC-04 - MQT Checkout  (IP)
 
 
 
@@ -43,42 +41,7 @@ TAC-05 - MQT Checkout
 
 
 ## CT ##
-WPN-07 - AGM-65
-WPN-08 - AGM-88C HARM
 WPN-05 - LGB - Singleton and buddy-lasing
-WPN-10 - JDAM
-WPN-11 - JSOW
-WPN-13 - Towed decoy
-WPN-14 - LITENING
-TAC-10 - AR/AI Flights
-TAC-11 - OCA: Sweep
-TAC-12 - OCA: ESCORT
-TAC-13 - DCA: CAP
-TAC-14 - CAS Operations
-TAC-15 - SEAD/DEAD Operations
-
-
-
-## UGT ##
-TAC-16 - Two-Ship Flight Lead
-TAC-17 - Four-Ship Flight Lead
-TAC-18 - FAC(A)
-
-
-
-
-
-
-------------                            ----------------
-------------    NECK SUGGESTION:        ----------------
-
-## Continuation Training (CT) ( seperated into 4 parts):##
-- WPN (Self qualify for all weapons and systems)
-- ACT (Air Combat Tactics)
-- SAT (Surface Attack Tactics)
-- SEAD 
-
-
 **ACT**
 ACT 3: DCA CAP
 ACT 4: OCA SWEEP
@@ -99,15 +62,19 @@ SEAD: Wild Weasel 2 (need to be developed)
 
 
 
-## UPGRADES (UG): ##
+
+
+
+## UGT ##
 **FLUG 2ship (Flight lead upgrade)**
 SAT 7: Opposed SAT (A-A + A-G)
 (ACT 3-4-5 and SAT 4-5-6 need to be finished before FLUG 2ship)
 
 
 **FLUG 4ship (Flight lead upgrade)**
-SAT 8: Opposed SAT 4ship
-ACT 7: DCA CAP 4 ship
+- SAT 8: Opposed SAT 4ship
+- ACT 7: DCA CAP 4 ship
+Two events, can be taken in any order.
 
 
 **Aggressor**
@@ -122,5 +89,29 @@ SAT-10 Forward Air Controller (Airborne)
 **Mission Commander**
 SAT 9  Package (3 flight package: Strike, sweep , SEAD)
 ACT 8: DCA CAP (Minum 3 flights covering 2 FAOR)
+
+
+
+
+
+## TO BE ADDED AS THE MODULE GETS DEVELOPED##
+MQT:
+AVI-X - Link-16 and IFF
+
+CT:
+WPN-X - AGM-65
+WPN-X - AGM-88C HARM
+WPN-X - JDAM
+WPN-X - JSOW
+WPN-X - Towed decoy
+WPN-X - AIM-7 Sparrow
+
+
+
+
+
+
+
+
 
 
